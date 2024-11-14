@@ -32,7 +32,7 @@ function App() {
             <div className="flex items-center justify-between">
               <Link to="/" className="flex items-center space-x-3">
                 <ShoppingBag className="h-8 w-8 text-blue-500" />
-                <h1 className="text-2xl font-bold text-gray-900">TechStore</h1>
+                <h1 className="text-2xl font-bold text-gray-900">EstiloLibre</h1>
               </Link>
               <div className="flex items-center space-x-4">
                 <div className="relative">
@@ -138,7 +138,7 @@ function App() {
         <footer className="bg-white border-t mt-auto">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
             <p className="text-center text-gray-500">
-              © 2024 TechStore. Todos los derechos reservados.
+              © 2024 EstiloLibre. Todos los derechos reservados.
             </p>
           </div>
         </footer>
