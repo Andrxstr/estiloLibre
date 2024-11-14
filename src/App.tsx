@@ -9,6 +9,7 @@ import ProtectedRoute from './components/ProtectedRoute';
 import { useProductStore } from './store/productStore';
 import { useCartStore } from './store/cartStore';
 import { useAuthStore } from './store/authStore';
+import { products } from './data/products';
 
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
